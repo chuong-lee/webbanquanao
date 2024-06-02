@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.brand-info {
+    max-width: 600px;
+}
+
+.brand-info h2 {
+    color: #333;
+    text-align: center;
+}
+
+.brand-info p {
+    color: #666;
+}
+
+.brand-image {
+    flex: 1;
+    text-align: rightl;
+}
+
+.brand-image img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+
+
+
+.container2 {
+    display: flex;
+    max-width: 1200px;
+    margin: 20px auto;
+}
+
+.left-column {
+    flex: 1;
+    padding: 20px;
+}
+
+.right-column {
+    flex: 1;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+}
